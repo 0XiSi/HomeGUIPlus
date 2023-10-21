@@ -1,0 +1,4 @@
+name: HomeGUIPlus
+version: '1.0.0'
+main: net.oxisi.homeguiplus.HomeGUIPlus
+api-version: '1.20'

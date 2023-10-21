@@ -1,0 +1,6 @@
+Database:
+  Database-Username: "username"
+  Database-Password: "password"
+  Database-Url: "jdbc:mysql://localhost:3306/mydb"
+
+Homes-Per-Player: 1
